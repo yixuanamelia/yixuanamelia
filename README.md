@@ -1,6 +1,6 @@
-<h3 align="center">Hi there! I'm Yixuan! 👋</h3>
-</br>
-<h5 align="center">I am a front-end developer, web designer, freelance teacher and interpreter.</h5>
+<h3>Hi there! I'm Yixuan! 👋</h3>
+<br>
+<h5>I am a front-end developer, web designer, freelance teacher and interpreter.</h5>
 
 - 🔭 I’m currently working on **building custom demos.**
 
