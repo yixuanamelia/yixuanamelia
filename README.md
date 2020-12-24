@@ -1,6 +1,6 @@
 ### Hi there!👋 I'm Yixuan! 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=http%3A%2F%2Fyixuan-wang.com)](https://yixuan-wang.com)
-## I am a front-end developer, web designer, freelance teacher and interpreter
+## I am a front-end developer, web designer, and freelancer
 - 🔭 I’m currently working on building custom demos and reusuable UI components in react
 
 - 🌱 I’m currently learning about something new, almost everyday😇
