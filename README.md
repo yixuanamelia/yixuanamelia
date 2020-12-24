@@ -1,16 +1,15 @@
 <h3>Hi there! I'm Yixuan! 👋</h3>
-<br>
+--------------------------------------------------------------------------------------
 <h5>I am a front-end developer, web designer, freelance teacher and interpreter.</h5>
+- 🔭 I’m currently working on building custom demos and reusuable UI components in react.
 
-- 🔭 I’m currently working on **building custom demos.**
+- 🌱 I’m currently learning about something new everyday.
 
-- 🌱 I’m currently **learning about something new everyday.**
+- 👯 I’m looking to collaborate on more web projects at school or at work.
 
-- 👯 I’m looking to collaborate on **more web projects at school or at work.**
+- 🥅 2021 Goals: Carry on with 42 and WFH🏚.
 
-- 🥅 2021 Goals **Carry on with 42 and 🏚WFH.**
-
-- ⚡ Fun fact **I'm crazy about spicy food.🌶**
+- ⚡ Fun fact: I'm crazy about spicy food.🌶
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.seluj78.vercel.app/api/spotify" alt="Seluj78 Spotify Playing" width="350" />](https://open.spotify.com/track/50fCm9Wuerl1Ram0FUDEaL)
