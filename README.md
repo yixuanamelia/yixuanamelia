@@ -11,11 +11,6 @@
 
 - ⚡ Fun fact: I'm crazy about spicy food🌶
 
-### Spotify Playing 🎧
-
-[img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=yixuanamelia"]
-(https://spotify-github-profile.vercel.app/api/view.svg?uid=yixuanamelia&cover_image=true&theme=novatorem)]]
-
 ### Connect with me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yixuan-wang-a42082a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yixuan-wang-a42082a8/" height="30" width="40" /></a>
 
