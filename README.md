@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'm crazy about spicy food🌶
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-yixuanamelia.vercel.app/api/spotify" alt="yixuanamelia Spotify Playing" width="350" />](https://open.spotify.com/user/yixuanamelia)
+[<img src="https://spotify-now-playing-yixuanamelia.vercel.app/api/spotify" alt="yixuanamelia Spotify Playing" width="350" />](https://open.spotify.com/track/50fCm9Wuerl1Ram0FUDEaL)
  
 
 ### Connect with me:
