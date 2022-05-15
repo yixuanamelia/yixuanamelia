@@ -1,13 +1,13 @@
 ### Hi there!👋 I'm Yixuan! 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=http%3A%2F%2Fyixuan-wang.com)](https://yixuan-wang.com)
-## I am a front-end developer, web designer, and a freelancer
-- 🔭 I’m currently working on building custom demos and reusable UI components in React
+## I am a Front-end Developer & a Content Creater
+- 🔭 I’m looking for an intership as a Front-end Developer.
 
-- 🌱 I’m currently enhancing my design skills (Sketch & Blender) and web development skills (React & Typescript) 
+- 🌱 I’m currently improving my design skills (Sketch & Blender) and web development skills (React & Typescript) 
 
-- 👯 I’m looking to collaborate on more web projects either at school or at work
+- 👯 I’m collaborating with my team on a blockchain project.
 
-- 🥅 2022 Goals: On the path of becoming a SOFTWARE ENGINEER 
+- 🥅 2022 Goals: On the path of becoming a more experienced SOFTWARE ENGINEER 
 
 - ⚡ Fun fact: I eat spicy food everyday 🌶
 
