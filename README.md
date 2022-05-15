@@ -3,13 +3,13 @@
 ## I am a front-end developer, web designer, and a freelancer
 - 🔭 I’m currently working on building custom demos and reusable UI components in React
 
-- 🌱 I’m currently learning about something new, almost everyday😇
+- 🌱 I’m currently enhancing my design skills (Sketch & Blender) and web development skills (React & Typescript) 
 
 - 👯 I’m looking to collaborate on more web projects either at school or at work
 
-- 🥅 2021 Goals: Carry on with 42 and WFH🏚
+- 🥅 2022 Goals: On the path of becoming a SOFTWARE ENGINEER 
 
-- ⚡ Fun fact: I'm crazy about spicy food🌶
+- ⚡ Fun fact: I eat spicy food everyday 🌶
 
 ### Connect with me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yixuan-wang-a42082a8/" target="blank"><img align="center" style="color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yixuan-wang-a42082a8/" height="30" width="40" /></a>
