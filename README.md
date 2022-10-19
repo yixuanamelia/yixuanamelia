@@ -1,11 +1,11 @@
 ### Hi there!👋 I'm Yixuan! 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=http%3A%2F%2Fyixuan-wang.com)](https://yixuan-wang.com)
 ## I am a Front-end Developer & a Content Creater
-- 🔭 I’m looking for an intership as a Front-end Developer.
+- 🔭 I’m looking for a CDI as a Front-end Developer.
 
-- 🌱 I’m currently improving my design skills (Sketch & Blender) and web development skills (React & Typescript) 
+- 🌱 I’m currently improving my design skills (Sketch & Blender) and web development skills (Vue.js and Typescript) 
 
-- 👯 I’m collaborating with my team on a blockchain project.
+- 👯 I’m collaborating with my team on a blockchain Defi project.
 
 - 🥅 2022 Goals: On the path of becoming a more experienced SOFTWARE ENGINEER 
 
