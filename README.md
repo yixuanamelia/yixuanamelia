@@ -3,11 +3,11 @@
 ## I am a Front-end Developer & a Content Creater
 - 🔭 I’m looking for a CDI as a Front-end Developer.
 
-- 🌱 I’m currently improving my design skills (Sketch & Blender) and web development skills (Vue.js and Typescript) 
+- 🌱 I’m currently honing my coding skills in Vue and React through project-based learning;
 
-- 👯 I’m collaborating with my team on a blockchain Defi project.
+- 👯 I’m collaborating with my team on a blockchain DeFi project where I am responsible for frontend development, social media marketing and community management;
 
-- 🥅 2022 Goals: On the path of becoming a more experienced SOFTWARE ENGINEER 
+- 🥅 2023 Goals: On the path of becoming a more experienced SOFTWARE ENGINEER 
 
 - ⚡ Fun fact: I eat spicy food everyday 🌶
 
